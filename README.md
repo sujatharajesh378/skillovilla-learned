@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sujatharajesh378
+- "I have 3 years of experience as a **Business Analyst** at Usis Technologies and am currently pursuing a Data Analyst course at Skilovila."
 - Certified Data Analyst with strong data visualization skills | Proficient in Python, SQL, Excel, Power BI and Tableau | Passionate about extracting business insights from data.
 - Grade: goldGrade: gold
 Gold Grade: Activities and Societies
@@ -25,3 +26,4 @@ Passionate about leveraging technology for business success, optimizing operatio
 Designed and implemented data models, analyzed data, and presented findings to stakeholders.
 🤝📊 Collaboration:
 ![image](https://github.com/user-attachments/assets/b3af28ec-8b2b-4b49-ad99-c9102a5e7a5d)
+
